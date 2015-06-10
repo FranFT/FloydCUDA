@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FloydCUDA_1D", "FloydCUDA\FloydCUDA.vcxproj", "{E63C9AE7-D202-429B-981F-74B94FBF8590}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Floyd_Secuencial", "Floyd_Secuencial.\Floyd_Secuencial.vcxproj", "{734AE94C-12F3-4BFA-AB73-4707E404753D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FloydSecuencial", "FloydSecuencial\FloydSecuencial.vcxproj", "{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +23,12 @@ Global
 		{E63C9AE7-D202-429B-981F-74B94FBF8590}.Release|Win32.Build.0 = Release|Win32
 		{E63C9AE7-D202-429B-981F-74B94FBF8590}.Release|x64.ActiveCfg = Release|x64
 		{E63C9AE7-D202-429B-981F-74B94FBF8590}.Release|x64.Build.0 = Release|x64
-		{734AE94C-12F3-4BFA-AB73-4707E404753D}.Debug|Win32.ActiveCfg = Debug|Win32
-		{734AE94C-12F3-4BFA-AB73-4707E404753D}.Debug|Win32.Build.0 = Debug|Win32
-		{734AE94C-12F3-4BFA-AB73-4707E404753D}.Debug|x64.ActiveCfg = Debug|Win32
-		{734AE94C-12F3-4BFA-AB73-4707E404753D}.Release|Win32.ActiveCfg = Release|Win32
-		{734AE94C-12F3-4BFA-AB73-4707E404753D}.Release|Win32.Build.0 = Release|Win32
-		{734AE94C-12F3-4BFA-AB73-4707E404753D}.Release|x64.ActiveCfg = Release|Win32
+		{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}.Debug|Win32.Build.0 = Debug|Win32
+		{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}.Debug|x64.ActiveCfg = Debug|Win32
+		{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}.Release|Win32.ActiveCfg = Release|Win32
+		{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}.Release|Win32.Build.0 = Release|Win32
+		{FBB4D340-E7B4-4C12-B1F3-D8FE3ACEC2BE}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
